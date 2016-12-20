@@ -23,6 +23,7 @@ class MyClassTestr extends Testr {
     }
 
 }
+Testr.run(MyClassTestr)
 ```
 
 
